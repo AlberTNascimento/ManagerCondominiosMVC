@@ -1,4 +1,4 @@
-﻿using GerCondominiosMVC.Models;
+﻿using GerCondominiosMVC.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -17,7 +17,8 @@ namespace GerCondominiosMVC.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Your application of condominium manager.";
+            ViewData["Aluno"] = "Alber Nascimento";
 
             return View();
         }

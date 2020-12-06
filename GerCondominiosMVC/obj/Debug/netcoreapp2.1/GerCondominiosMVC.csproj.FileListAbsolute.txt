@@ -7,7 +7,6 @@ D:\GERCONDOMVC\GerCondominiosMVC\GerCondominiosMVC\bin\Debug\netcoreapp2.1\GerCo
 D:\GERCONDOMVC\GerCondominiosMVC\GerCondominiosMVC\bin\Debug\netcoreapp2.1\GerCondominiosMVC.pdb
 D:\GERCONDOMVC\GerCondominiosMVC\GerCondominiosMVC\bin\Debug\netcoreapp2.1\GerCondominiosMVC.Views.dll
 D:\GERCONDOMVC\GerCondominiosMVC\GerCondominiosMVC\bin\Debug\netcoreapp2.1\GerCondominiosMVC.Views.pdb
-D:\GERCONDOMVC\GerCondominiosMVC\GerCondominiosMVC\obj\Debug\netcoreapp2.1\GerCondominiosMVC.csprojAssemblyReference.cache
 D:\GERCONDOMVC\GerCondominiosMVC\GerCondominiosMVC\obj\Debug\netcoreapp2.1\GerCondominiosMVC.AssemblyInfoInputs.cache
 D:\GERCONDOMVC\GerCondominiosMVC\GerCondominiosMVC\obj\Debug\netcoreapp2.1\GerCondominiosMVC.AssemblyInfo.cs
 D:\GERCONDOMVC\GerCondominiosMVC\GerCondominiosMVC\obj\Debug\netcoreapp2.1\GerCondominiosMVC.csproj.CoreCompileInputs.cache
@@ -33,3 +32,5 @@ D:\GERCONDOMVC\GerCondominiosMVC\GerCondominiosMVC\obj\Debug\netcoreapp2.1\GerCo
 D:\GERCONDOMVC\GerCondominiosMVC\GerCondominiosMVC\obj\Debug\netcoreapp2.1\GerCondominiosMVC.pdb
 D:\GERCONDOMVC\GerCondominiosMVC\GerCondominiosMVC\obj\Debug\netcoreapp2.1\GerCondominiosMVC.genruntimeconfig.cache
 D:\GERCONDOMVC\GerCondominiosMVC\GerCondominiosMVC\obj\Debug\netcoreapp2.1\GerCondominiosMVC.csproj.CopyComplete
+D:\GERCONDOMVC\GerCondominiosMVC\GerCondominiosMVC\obj\Debug\netcoreapp2.1\GerCondominiosMVC.csprojAssemblyReference.cache
+D:\GERCONDOMVC\GerCondominiosMVC\GerCondominiosMVC\obj\Debug\netcoreapp2.1\Razor\Views\Funcoes\Index.cshtml.g.cs

@@ -19,12 +19,12 @@ using GerCondominiosMVC;
 #line default
 #line hidden
 #line 2 "D:\GERCONDOMVC\GerCondominiosMVC\GerCondominiosMVC\Views\_ViewImports.cshtml"
-using GerCondominiosMVC.Models;
+using GerCondominiosMVC.Models.ViewModels;
 
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b93df4061ff384cf01ca37cf92dff41c251f235f", @"/Views/Home/Contact.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e9b4b0a9e1a83a7aa1e19271ba4cd971a848beff", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"395865672fb445ba7137872f45b091da9e65131a", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Contact : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

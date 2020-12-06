@@ -1,7 +1,7 @@
 using System;
 
-namespace GerCondominiosMVC.Models
-{
+namespace GerCondominiosMVC.Models.ViewModels
+{ 
     public class ErrorViewModel
     {
         public string RequestId { get; set; }
